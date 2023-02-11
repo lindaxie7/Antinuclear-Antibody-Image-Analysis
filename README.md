@@ -6,8 +6,7 @@ Auto-immune disorder detection from antinuclear antibody images
 
 
 ### Project Overview:
-The project aims to create an accurate, scalable and deployable ML method that predicts ANA specificity for double stranded DNA (dsDNA)
-Machine learning may discover new staining patterns, help track disease progression/remission, and potentially lead to drug discovery or cell-specific locations for druggable targets
+The project aims to create an accurate, scalable and deployable ML method that predicts ANA specificity for double stranded DNA (dsDNA), use machine learning to discover new staining patterns, help track disease progression/remission, and potentially lead to drug discovery or cell-specific locations for druggable targets
 
 
 
