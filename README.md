@@ -33,8 +33,7 @@ Our first aim was to establish baseline performance metrics using AutoML. Once o
 
 We also wanted to investigate the performance of different model types ranging in complexity from a simple CNN with only 2 convolutional layers to a way more complexed ResNet architecture.
 
-To develop the CNN, we used a Jupyter notebook on a VM instance with n1 machine type with 16 vCPUs and 1 V100 GPU
-Once the CNN was roughed in, we tuned hyperparameters using Vertex AI. Once finalized, we submitted a custom training job on Vertex AI.
+To develop the CNN, we used a Jupyter notebook on a VM instance with n1 machine type with 16 vCPUs and 1 V100 GPU. Once the CNN was roughed in, we tuned hyperparameters using Vertex AI. Once finalized, we submitted a custom training job on Vertex AI.
 
 We also tried transfer learning by implementing MobileNetV2, which is a ResNet architecture. 
 
