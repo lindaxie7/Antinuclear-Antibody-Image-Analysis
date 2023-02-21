@@ -17,6 +17,9 @@ The project aims to create an accurate, scalable and deployable ML method that p
 ###  Data Source:
 Hospital internal data 
 
+Images labeled as two groups: dsDNA positive, dsDNA negative
+
+Images Total = 7500, Positive = 1500, Negative = 6000;
 
 ### Solution
 
