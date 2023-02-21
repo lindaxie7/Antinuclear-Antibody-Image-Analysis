@@ -20,15 +20,7 @@ The project aims to create an accurate, scalable and deployable ML method that p
 Hospital internal data 
 
 
-### Data-processing
-1. Image data obtained from relational database, files renamed and headers cleaned, labled the images as two groups: dsDNA positive, dsDNA negative
-2. Images Total = 7500, Positive = 1500, Negative = 6000;
-   Format: .jpg ; 
-   3-Channel (RGB);
-   Average size: 124kB
-
-
-### Machine learning models development
+### Solution
 
 First step is to predict dsDNA positivity from images, we want to train the model to learn the antibody specificity
 
@@ -54,11 +46,7 @@ Finally, we deployed our AutoML model
 * Convolutional neural network
 * MobileNetV2
 
-## Future development
 
-* Addressing Imbalanced Dataset Challenge
-* More Hyperparam Tuning 
-* Investigate more complexed model architectures - Attention-based Multiple Instance Learning Architecture (AMIL)
 
 
 
