@@ -6,8 +6,6 @@ Auto-immune disorder detection from antinuclear antibody images
 
 <img width="406" alt="Capture3" src="https://user-images.githubusercontent.com/38533045/218278770-27a8183e-ca8b-47d1-a776-08462f09cd1d.PNG">
 
-<img width="142" alt="Capture2" src="https://user-images.githubusercontent.com/38533045/218278575-f831733d-d393-49bd-b142-29b7f98aaf1d.PNG">
-
 
 
 
