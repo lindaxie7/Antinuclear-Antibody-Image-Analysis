@@ -21,7 +21,6 @@ Images Total = 7500, Positive = 1500, Negative = 6000;
 
 
 
-
 ## Tools/technologies 
 
 * Google cloud storage fuse
