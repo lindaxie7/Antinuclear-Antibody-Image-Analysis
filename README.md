@@ -15,6 +15,12 @@ Images labeled as two groups: dsDNA positive, dsDNA negative
 Images Total = 7500, Positive = 1500, Negative = 6000;
 
 
+
+###  The ML solution:
+
+
+
+
 ## Tools/technologies 
 
 * Google cloud storage fuse
