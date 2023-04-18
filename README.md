@@ -21,6 +21,7 @@ Images Total = 7500, Positive = 1500, Negative = 6000;
 
 
 ### Model performance
+<img width="476" alt="Capture" src="https://user-images.githubusercontent.com/38533045/232637591-5c89b1b4-f692-4ad4-ac51-1dfed4f9466c.PNG">
 
 
 ## Tools/technologies 
