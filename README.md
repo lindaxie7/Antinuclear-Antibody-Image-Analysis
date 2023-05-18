@@ -3,7 +3,7 @@ Auto-immune disorder detection from antinuclear antibody images
 
 
 ### Project Overview:
-Creating machine learning models that predicts ANA specificity for double stranded DNA (dsDNA), use machine learning to discover new staining patterns.
+Creating machine learning models that predicts Antinuclear-Antibody specificity for double stranded DNA (dsDNA), use machine learning to discover new staining patterns.
 
 
 
